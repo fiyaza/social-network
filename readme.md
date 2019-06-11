@@ -1,3 +1,6 @@
+A social network built with Laravel and Bootstrap. Authenticate, add and accept friend requests, post to a timeline, reply to and like friend's statuses.
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
